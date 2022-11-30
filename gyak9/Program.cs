@@ -17,5 +17,6 @@ app.UseDefaultFiles();
 app.MapControllers();
 app.UseStaticFiles();
 
+app.MapControllers();
 
 app.Run();
